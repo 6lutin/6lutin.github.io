@@ -8,21 +8,19 @@ categories: paperwork
 Surveyor Act 1
 ==============
 
-After a succesful meeting with the advising architech yesterday, I decided to kill two bird in one stone while in town today.  
+After a succesful meeting with the advising architect yesterday, I decided to kill two bird in one stone while in town today.  
 I had a meeting planned with the quantity surveyor in the afternoon.
 The goal was to have a chat with him and discuss the case.
 On my side I wanted to know what are the possibilities to split the condominium.
-He wanted to have a look the site to get a look around and understand better my project.
-The surveyor understood my points straight away, leaving two ways to deal with matter:
-  - A building right
+He wanted to have a look around at the site to have a better understanding of my project.
+The surveyor understood my points straight away, leaving two ways to deal with the matter:
+  - A "right to build"
   - A condominium split
-The first option would not exactly be what I'm looking for.
-It allows for more rights while remaining inside the curent condominium.
-The second option is exactly what i was looking for.
-This would be the split of the current condominium in two separate condominium.
+The first option would not be exactlty what I'm looking for, as it allows more rights while remaining inside the curent condominium.
+The second option is exactly what i was looking for, as this would be the split of the current condominium into two separate condominia.
 The technical solution is as simple as two survey marks.
-I was worried about the need to survey all the existing.
-That would mean 3 flats, a garage, a hall, a storage room to survey.
+I was worried about the need of survey the entirety of the building.
+That would mean 3 flats, a garage, a hall, and a storage room to survey.
 With implication that would go beyond my need and could imply some changes regarding taxes for the other owner in the condo.
 As a side note, metering the enclosing walls could be done as a side mission.
 I'm now waiting for a cost estimation from the surveyor.
