@@ -21,17 +21,17 @@ The second option is exactly what i was looking for, as this would be the split 
 The technical solution is as simple as two survey marks.
 I was worried about the need of survey the entirety of the building.
 That would mean 3 flats, a garage, a hall, and a storage room to survey.
-With implication that would go beyond my need and could imply some changes regarding taxes for the other owner in the condo.
+With implication that would go beyond my need and could imply some changes regarding taxes for the other owner in the condominium.
 As a side note, metering the enclosing walls could be done as a side mission.
 I'm now waiting for a cost estimation from the surveyor.
-I also have a relative that knows a good surveyor if this one is over priced somehow.
+I also have a relative that knows a good surveyor if this one is overpriced somehow.
 
 Agglomeration Community Act 3
 =============================
 
 I used my time in town to visit the agglo once again.
-I had in mind to follow the adving architect reccomandation from the day before.
-My goal was talk someone into taking few prints for pre-examination, for the commission that would take place the day after.
+I had in mind to follow the advising architect recommandation from the day before.
+My goal was to talk someone into taking few prints for the pre-examination, for the commission that would take place the day after.
 That didn't go to plan, yet the outcome was rather positive.
 I showed up unanounced at the agglo and ask for the person that stamped the C.U.
 She wasn't there, the lady seen in the act 1 was busy, so i ended up a third person from the agglo.
