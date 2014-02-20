@@ -4,9 +4,13 @@ title:  "Sketchup"
 date:   2014-02-06 23:31:04
 categories: 3d
 ---
-
-
 After nearly 10 hours on it, i start to get a grasp of sketchup.  
-We can now see beyond the blog of color that i started with.  
-I posted few pictures of what it looks like now.  
+![picture]({{ site.url }}/images/2014_02_06_02.png)  
+We can now have a better sense of what the colors might be.  
+![picture]({{ site.url }}/images/2014_02_06_03.png)  
+We see how the glass will make the room feel quite big.  
+![picture]({{ site.url }}/images/2014_02_06_04.png)  
 Let me know what you think.  
+![picture]({{ site.url }}/images/2014_02_06_05.png)  
+Also ruby:  
+![picture]({{ site.url }}/images/2014_02_06_01.png)  
