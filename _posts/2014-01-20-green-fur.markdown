@@ -1,0 +1,16 @@
+---
+layout: post
+title: "Green fur"
+date: 2014-01-20 20:31:04
+categories: pre-requisite
+---
+Green House
+===========
+The is finally starting to loose its green fur.  
+![picture]({{ site.url }}/images/2014_01_20_2.jpg)
+It would be nice to burn it onsite, but it is agaist the law, so we will need to dump it at the skip.  
+![picture]({{ site.url }}/images/2014_01_20_3.jpg)  
+Talking about skip, there is a fair amount of rubish in the house.  
+![picture]({{ site.url }}/images/2014_01_20_1.jpg) 
+Apart of the stone, everything will go.  
+![picture]({{ site.url }}/images/2014_01_20_0.jpg)  
