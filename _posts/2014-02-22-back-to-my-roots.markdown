@@ -14,6 +14,7 @@ The first one we try our hands on was a small mimosa tree.
 I marked a one meter circle around the tree and started to dig.  
 
 It took us about 3 hours and a pitfork to remove this one.  
+![picture]({{ site.url }}/images/2014_02_22_01.png)
 The ground there is a mix of sand, earth and argile.  
 We will lilkely have to get rid of all of it.  
 It would be nice to have more earth for the garden.  
@@ -21,6 +22,7 @@ Hopefully, we will be able to keep what we dig elsewhere.
 
 This one was full of small roots.  
 All of them tangled in the much bigger root from the much bigger mimosa tree.  
+![picture]({{ site.url }}/images/2014_02_22_02.png)
 
 Once done we tackled what was left of the laurel tree.  
 It had few sizable roots, all going downwards.  
@@ -29,6 +31,7 @@ It looked as if the tree was growing in a stone well.
 Most of the stones were setup in a circular shape around the tree.  
 It turned out other wise, no well was actually found.  
 Still we removed that tree in an hour and a half.  
+![picture]({{ site.url }}/images/2014_02_22_03.png)
 
 Next up, the massive mimosa roots.  
 They run far and thick all around the garden.  
