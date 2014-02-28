@@ -7,3 +7,10 @@ categories: pre-requisite
 
 Cleaning Up
 ===========
+![picture]({{ site.url }}/images/2014_02_02_0.jpg)
+![picture]({{ site.url }}/images/2014_02_02_1.jpg)
+![picture]({{ site.url }}/images/2014_02_02_2.jpg)
+![picture]({{ site.url }}/images/2014_02_02_3.jpg)
+![picture]({{ site.url }}/images/2014_02_02_4.jpg)
+![picture]({{ site.url }}/images/2014_02_02_5.jpg)
+![picture]({{ site.url }}/images/2014_02_02_6.jpg)

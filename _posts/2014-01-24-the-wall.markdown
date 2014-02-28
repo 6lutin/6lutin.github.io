@@ -7,3 +7,11 @@ categories: pre-requisite
 
 The Wall
 ========
+![picture]({{ site.url }}/images/2014_01_24_0.jpg)
+![picture]({{ site.url }}/images/2014_01_24_1.jpg)
+![picture]({{ site.url }}/images/2014_01_24_2.jpg)
+![picture]({{ site.url }}/images/2014_01_24_3.jpg)
+![picture]({{ site.url }}/images/2014_01_24_4.jpg)
+![picture]({{ site.url }}/images/2014_01_24_5.jpg)
+![picture]({{ site.url }}/images/2014_01_24_6.jpg)
+![picture]({{ site.url }}/images/2014_01_24_7.jpg)

@@ -7,3 +7,5 @@ categories: pre-requisite
 
 Another Brick
 =============
+![picture]({{ site.url }}/images/2014_01_25_0.jpg)
+![picture]({{ site.url }}/images/2014_01_25_1.jpg)
