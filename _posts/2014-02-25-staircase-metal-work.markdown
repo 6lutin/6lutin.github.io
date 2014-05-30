@@ -14,8 +14,8 @@ One could notice that the openning between the metal bars is quite small (150mm)
 ![picture]({{ site.url }}/images/2014_02_25_14.jpg)  
 Here we can see the vertical guards.  
 ![picture]({{ site.url }}/images/2014_02_25_8.jpg)  
-And a last picture
-![picture]({{ site.url }}/images/2014_02_25_9.jpg)
+And a last picture.  
+![picture]({{ site.url }}/images/2014_02_25_9.jpg)  
 
-That's it folks.
-I hope you enjoy it as much as i did.
+That's it folks.  
+I hope you enjoy it as much as i did.  
