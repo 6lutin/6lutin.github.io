@@ -7,7 +7,7 @@ image:
   feature: so-simple-sample-image-4.jpg
 ---
 
-At some poimt I realised that I needed a new challenge in my life.
+At some point I realised that I needed a new challenge in my life.
 As a computer guy, i first belive a new shiny open source project would do.
 Or starting a business around a shiny open source project.
 
