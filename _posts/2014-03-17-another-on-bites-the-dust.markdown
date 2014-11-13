@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "Another one bite the dust"
+title: "Another one bites the dust"
 date: 2014-03-17 19:45:48
 categories: pre-requisite
 ---
