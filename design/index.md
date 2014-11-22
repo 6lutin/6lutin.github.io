@@ -27,7 +27,7 @@ Here everything is squared, leveled and paperthin...
         <a href="/images/2014_02_06_02.png"><img src="/images/2014_02_06_02.png" alt=""></a>
         <a href="/images/2014_02_06_05.png"><img src="/images/2014_02_06_05.png" alt=""></a>
         <a href="/images/2014_02_06_04.png"><img src="/images/2014_02_06_04.png" alt=""></a>
-        <figcaption>The house modeled with glass, metal and roofing</figcaption> 
+        The house modeled with glass, metal and roofing
 </figure><br />
 <figure>
         <a href="/images/2014_02_06_03.png"><img src="/images/2014_02_06_03.png" alt="The roof is split into two distinct side, a glass side on the left, a classic roof on the right"></a>
@@ -41,12 +41,12 @@ Here everything is squared, leveled and paperthin...
 <figure class="half">
         <a href="/images/2014_11_21_3.png"><img src="/images/2014_11_21_3.png" alt=""></a>
         <a href="/images/2014_11_21_4.png"><img src="/images/2014_11_21_4.png" alt=""></a>
-        <figcaption>An overview with the main fiitings</figcaption>
+        An overview with the main fiitings
 </figure><br />
 <figure class="half">
         <a href="/images/2014_11_21_5.png"><img src="/images/2014_11_21_5.png" alt=""></a>
         <a href="/images/2014_11_21_7.png"><img src="/images/2014_11_21_7.png" alt=""></a>
-        <figcaption> Some tetrominoes shelfs, i went 9x6 because ultimatly i need as much space as possible <figcaption> 
+        Some tetrominoes shelfs, i went 9x6 because ultimatly i need as much space as possible
 </figure><br />
 <figure>
         <a href="/images/2014_11_21_6.png"><img src="/images/2014_11_21_6.png" alt=""></a>
@@ -63,7 +63,7 @@ Here everything is squared, leveled and paperthin...
         <a href="/images/2014_02_08_01.png"><img src="/images/2014_02_08_01.png" alt="Red square handdle on white cubboards viewed from the bed."></a>
         <a href="/images/2014_02_08_03.png"><img src="/images/2014_02_08_03.png" alt="Red round handdle on white cubboards.Two hanger racks surmounted by Red square handdle on white cubboards.View from the bed"></a>
         <a href="/images/2014_02_08_06.png"><img src="/images/2014_02_08_06.png" alt="Same view than previously but from the top of the stairs."></a>
-        <figcaption> The upstairs storage with a different take on shape for both sides of the room <figcaption>
+        The upstairs storage with a different take on shape for both sides of the room
 </figure><br />
 <figure>
         <a href="/images/2014_02_08_07.png"><img src="/images/2014_02_08_07.png" alt="A view from out side in. On the left the toilet, in the middle the bed, on the right the shower"></a>
